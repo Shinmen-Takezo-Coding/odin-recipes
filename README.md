@@ -1,1 +1,1 @@
-# odin-recipes
+Trying to review The Odin Project lessons.
